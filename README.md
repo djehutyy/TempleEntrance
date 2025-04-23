@@ -44,13 +44,6 @@ It is a **deliberate and respectful bridge**, built to preserve the system's spi
 TempleOS is not just an operating system — it is a **philosophical construct**.  
 This project treats it as such.
 
----
-
-## 📜 License
-
-This project is released under the **MIT License**.
-
----
 
 ## 🙏 Credits
 
